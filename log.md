@@ -4,7 +4,7 @@
 
 1. 基本定义
 
-\log_a N = b \iff a^b = N
+$\log_a N = b \iff a^b = N$ 
 2. 运算法则
 
 • \log_a(MN) = \log_a M + \log_a N
